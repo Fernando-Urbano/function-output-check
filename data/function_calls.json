@@ -1,0 +1,31 @@
+[
+    {
+        "full_name": "test_functions.operate",
+        "name": "operate",
+        "key_columns": [],
+        "parameters": [
+            {
+                "name": "n",
+                "type": "int",
+                "range": [
+                    "10",
+                    "100"
+                ],
+                "specific_values": null,
+                "is_list": false,
+                "list_length": null
+            },
+            {
+                "name": "d",
+                "type": "int",
+                "range": [
+                    "30",
+                    "35"
+                ],
+                "specific_values": null,
+                "is_list": false,
+                "list_length": null
+            }
+        ]
+    }
+]
